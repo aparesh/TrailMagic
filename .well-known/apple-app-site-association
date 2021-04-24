@@ -1,0 +1,17 @@
+{
+    "appclips": {
+        "apps": [ "KW4CP7S7VT.com.radiantapps.TrailMagic.Clip" ]
+    }, 
+    "applinks" : {
+        "details": [
+            {
+                "appID" : "KW4CP7S7VT.com.radiantapps.TrailMagic",
+                "components": [
+                    {
+                        "/" : "/"
+                    }
+                ]
+            }
+        ]
+    }
+}
